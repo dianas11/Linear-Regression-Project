@@ -1,2 +1,2 @@
 # Linear-Regression-Project
-A analysis on the Ecommerce customers data using Linear Regression
+Analysis on the Ecommerce customers data using Linear Regression
